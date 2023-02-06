@@ -6,7 +6,7 @@ This project aims to predict the stock price of Apple using Long Short-Term Memo
 
 
 ## Data 
-The data set used in this project consists of daily closing prices for Apple's stock over a period of 2018 - 2022. The data is obtained from publicly available sources and is preprocessed
+The data set used in this project consists of daily closing prices for Apple's stock over a period of some years. The data is obtained from publicly available sources and is preprocessed
 
 
 # Modeling approach
